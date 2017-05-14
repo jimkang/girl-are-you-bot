@@ -27,6 +27,6 @@
     "mastodon": "^1.2.0",
     "probable": "^2.0.0",
     "twit": "^2.2.4",
-    "wordnok": "^3.3.0"
+    "wordnok": "^3.3.1"
   }
 }
